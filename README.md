@@ -21,7 +21,7 @@ Flest allt er sett upp í 12 dálka grind með `20px` gutter.
 
 Öll bil eru hálft, heilt, tvöfalt eða þrefalt margfeldi af gutter. Hægt er að nota reglustiku tól (t.d. http://www.arulerforwindows.com/ eða http://www.pascal.com/software/freeruler/) til að finna nákvæmar stærðir en mestu skiptir að lausn svipi til en sé ekki nákvæmlega eins og fyrirmynd.
 
-Allar hreyfingar gerast á `300ms` með `ease-in-out` hröðunarfalli.
+Allar hreyfingar gerast á `300ms` með `ease-in-out` hröðunarfalli. Hreyfingar eru þegar svimað er yfir fyrirlestri í lista og síunar tökkum.
 
 ## Forsíða
 
@@ -123,7 +123,10 @@ og bæta við í tól að ofan.
 
 ## Mat
 
-* 10% -
+* 30% - `README` eftir forskrift, tæki og tól uppsett. Snyrtilegt, gilt (skv. eslint) JavaScript. Snyrtilegt, gilt (skv. stylelint) CSS/Sass, gilt og aðgengilegt HTML. Git notað
+* 30% – Yfirlitssíða með síu
+* 30% – Fyrirlestrarsíða útfærð með efni
+* 10% – Hægt að skrá að fyrirlestur sér kláraður
 
 ## Sett fyrir
 
