@@ -158,4 +158,11 @@ Myndir frá:
 
 ---
 
-> Útgáfa 0.1
+> Útgáfa 0.2
+
+### Útgáfusaga
+
+| Útgáfa | Lýsing                                |
+|--------|---------------------------------------|
+| 0.1    | Fyrsta útgáfa                         |
+| 0.2    | Setja inn auka efni í `lectures.json` |
